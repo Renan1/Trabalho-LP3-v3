@@ -1,0 +1,12 @@
+
+<%@ page pageEncoding="UTF-8" %>
+
+<nav id="menu">
+    <ul >
+        <li ><a  href="/trb2lp3/index.jsp">Início</a ></li >
+        <li ><a  href="/trb2lp3/indexIMC.jsp">Calcular IMC</a ></li >
+        <li ><a  href="/trb2lp3/indexJuros.jsp">Juros Compostos</a ></li >
+          
+    </ul >
+</nav>
+
