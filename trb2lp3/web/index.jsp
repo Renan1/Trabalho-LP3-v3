@@ -8,7 +8,7 @@
     
     <h1>Nomes: Renan Martins e Ingrid Sathler</h1>
     
-    <h1>Matrículas:</h1>
+    <h1>Matrículas:200811061 e 200721049</h1>
     
       
 <%@include file="/WEB-INF/rodape.jspf" %>     
